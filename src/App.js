@@ -95,7 +95,7 @@ function App() {
       caption:"Magmazel finally packed up and went on the train. She is looking funny just like she told you. "
     },
     {
-      url:"https://lh3.googleusercontent.com/proxy/i1MCocodU8F-ik40ERpNQCz18d7lZsYSrZ3QBbhw2p0SSk2064zYLLlsheHtRlYgXNHYuQa9TTSEnaYJorfYXDJQ7TC7lBmdKQ4F2YkDcQGQ1Otb4cIq8KJiZEMfUrfIBWm35wKjYnVwQ0sx5C69vXaxcyXJgGaKBmEazhOWlL_9MUs3K_yrbYYplA9D1zVgJ1-mkkg-f3odb-dqYwaJ6g",
+      url:"https://img.game8.co/3220151/a609965d2b4e0c0d3df6e74d5825496f.jpeg/show",
       caption:"Magmazel finally made her hair look different and finally got a new shirt and got a firebike and she finally found hop in the woods with her gengar."
     },
     {
@@ -201,9 +201,120 @@ function App() {
     {
       url: "https://i1.wp.com/www.imore.com/sites/imore.com/files/styles/large/public/field/image/2020/01/pokemon-sword-shield-expansion-pass-001.jpg?w=1200&ssl=1",
       caption: "woo, getting to this cave was not easy, good thing i put raichu back in his pokeball. I can't believe I keep saying that but at least it reminds me. I'm just going to rest here, but tomorrow I'll keep doing my journey."
+    },
+    {
+      url: "https://img.gfinityesports.com/news/image/1/4/2048x0-nc/review_ss_5hGybNr.png",
+      caption: "Scorbunny if you can hear me just give me a thumbs up. Scorbunny!"
+    },
+    {
+      url: "https://static1-www.millenium.gg/articles/7/91/47/@/102753-part19-article_m-2.png",
+      caption: "Its me the shield girl, with the red suit, magmazel you know you're facing real danger. Once the sword and shield mix together and they went inside the sword and shield pokemon and here comes the professor now."
+    },
+    {
+      url: "https://www.crystal-dreams.us/Random/Shield/iamaprincessnowtoo.png",
+      caption: "Its me the sword boy, magmazel the reason we have our hair shaped like the sword and shield pokemon its because we're the sword and shield pokemon's parents. Yes Magmazel? Magmazel said quietly, why have you by lying 100 years, its because we have to protect the sword and shield pokemon as their parents. You better go because I bet rose is wondering about you."
+    },
+    {
+      url: "https://cdn1.dotesports.com/wp-content/uploads/2019/11/24204831/Screenshot_2019-11-24-11-Pokemon-Sword-and-Pokemon-Shield-Official-Trailer-YouTube1.jpg",
+      caption: "Magmazel said loudly, ahh I wonder what will be at the stadium maybe there will be 100 things or 100 even more things, what will hop decide? Well he is right in front of me how about I ask him. Hey Hop, is it good against things that are happy? Hop said loudly, YESSSS."
+    },
+    {
+      url: "https://i.ytimg.com/vi/7VQHtFtrasg/maxresdefault.jpg",
+      caption: "YEEEEEEEEESSSSSSSSSSSSSSSSSSSSSSS!!!! Of course it is magamazel you just don't realize, we're going to battle LEEEEEEOOOOONNNNNNNN!!!"
+    },
+    {
+      url: "https://static.zerochan.net/Pok%C3%A9mon.Sword...Shield.full.2807283.png",
+      caption: "magmazel said to hop, hey look hop there is 100 pokemon in the wilds. Hop said Yea! Leon is hanging out on a cord by the stadium, on top of the roof on rose's tower. Magamazel said well it is roses tower of course, we're not allowed to be there except Leon and rose. Maybe we'll find a trainer at the pokemon stadium. I wonder maybe we'll battle Nessa. Hop said I'm sure we'll battle nessa!"
+    },
+    {
+      url: "https://am24.mediaite.com/tms/cnt/uploads/2019/06/Wanting-Nessas-skin-color-to-be-accurate-is-not-an-attack.jpg",
+      caption: "Hop, let me think about Nessa"
+    },
+    {
+      url: "https://static.zerochan.net/Pok%C3%A9mon.Sword...Shield.full.2807283.png",
+      caption: "magmazel said, hop look we'll see nessa once we get our grass badge. Hop said, YAAAAY THIS RULES, maybe we'll find a boy there or something. Let me think about a boy, hop said."
+    },
+    {
+      url: "https://64.media.tumblr.com/467de5f9671ca7a857b215bff17fc7e1/tumblr_psmxjshanN1y04c4fo1_1280.png",
+      caption: "*kissy sounds* *kissy sounds* *kissy sounds*, hop, hop wake up stop dreaming about boys magmazel said."
+    },
+    {
+      url: "https://static.zerochan.net/Pok%C3%A9mon.Sword...Shield.full.2807283.png",
+      caption: "Hop, you know you're not allowed to think about boys, you know you're not the king so you can't do that. Leon is, so what about we just think about you being the king. Hop said, thats a great idea!"
+    },
+    {
+      url: "https://media.comicbook.com/2020/02/hop-1205354-1280x0.jpeg",
+      caption: "Hop, wake up, wake up, we're done thinking about you being the king!"
+    },
+    {
+      url: "https://static.zerochan.net/Pok%C3%A9mon.Sword...Shield.full.2807283.png",
+      caption: "Ahhhh why would you not let me be the king? I miss being king, as much as I miss wooloo."
+    },
+    {
+      url: "https://cdn.vox-cdn.com/thumbor/wvlA2J3Io1NHL-EJKwGmz4fy-FA=/1400x788/filters:format(png)/cdn.vox-cdn.com/uploads/chorus_asset/file/19813228/Screen_Shot_2020_03_17_at_10.15.50_AM.png",
+      caption: "Woo loo, woo loo I miss you! Hop, hop stop dreaming about woo loo!"
+    },
+    {
+      url: "https://pm1.narvii.com/7501/be2a4fc81323bde74d4010189de6f902e095cf8dr1-717-819v2_uhq.jpg",
+      caption: "Woo loo I miss you, oo I miss you, oo I miss you, times are rough. Hop, hop stop dreaming about woo loo when he was a baby!"
+    }, 
+    {
+      url: "https://static.zerochan.net/Pok%C3%A9mon.Sword...Shield.full.2807283.png",
+      caption: "Sigh, you don't understand you just have to do this. You have to let me dream about woo loo, i miss him back at home. Alright I'll just send you a picture of him and me."
+    },
+    {
+      url: "https://cdn1.dotesports.com/wp-content/uploads/2019/11/24204831/Screenshot_2019-11-24-11-Pokemon-Sword-and-Pokemon-Shield-Official-Trailer-YouTube1.jpg",
+      caption: "Tick tick tick tick tick Magmazel said oh thats you texting me, Hop are you really just texting me pictures of you and woo loo? Hop said, yes thats it! Bingo!"
+    },
+    {
+      url: "https://media.comicbook.com/2020/03/hop-1211527-1280x0.jpeg",
+      caption: "Wow hop, these are marvelous pictures of you and woo loo. Hop said, its just me when I was a little kid with woo loo."
+    },
+    {
+      url: "https://pm1.narvii.com/7501/be2a4fc81323bde74d4010189de6f902e095cf8dr1-717-819v2_uhq.jpg",
+      caption: "Wow hop, all of these two more pictures of you and woo loo are amazing. I'm sorry I said that I just don't want you to keep worrying about woo loo so you won't be stressed. Its okay as long as I listen to these pictures it will be fine!"
+    },
+    {
+      url: "https://cdn1.dotesports.com/wp-content/uploads/2019/11/24204831/Screenshot_2019-11-24-11-Pokemon-Sword-and-Pokemon-Shield-Official-Trailer-YouTube1.jpg",
+      caption: "Hop, all these pictures are amazing. I'll show my mom once we get back from training. One thing is keeping me back, this train is taking so long I can barely feel my feet. My feet are getting worried we'll never walk again. Maybe we should stop the train or something. Or we could just break its gears or we could just tell them we need to get off or that this is our stop. Of course the lounge isn't too far. We've been traveling for a 100 miles but we're almost at the wilds train station."
+    },
+    {
+      url: "https://i.ytimg.com/vi/7VQHtFtrasg/maxresdefault.jpg",
+      caption: "Magmazel I can't believe it, its me hop. I can't believe it, we're here!!!"
+    },
+    {
+      url: "https://static1-www.millenium.gg/articles/2/91/32/@/102519-1201596-2019110815291100-3c66b776db1aa06323037049facd96d3-full-1-article_m-1.jpg",
+      caption: "Choo choo!! Oh I think this train stopped oh yeah it did stop, oh yeah the train stopped, okay honey its time to get off. Its me hop, these people keep talking, lets get off the train hurry!"
+    },
+    {
+      url: "https://cdn.mos.cms.futurecdn.net/NoMVz74e8vnWgNXZozHo4W.png",
+      caption: "whew, magmazel said good thing the train finally stopped. Now my feet are comfortable and rested. I really hope I can get off it now."
+    },
+    {
+      url: "https://www.gamespew.com/wp-content/uploads/2019/11/Pokemon-Sword-3-696x391.jpg",
+      caption: "Magmazel its me hop, look at the wilds! This place is like amazing. Magmazel said, oh you're right hop. Maybe we'll be able to catch a wild pikachu. Hey there is one over there! Hop said, the first one to find it gets to catch it and makes their dreams come true and that's what we're going to do!"
+    }, 
+    {
+      url: "https://cdn.images.express.co.uk/img/dynamic/143/590x/Pokemon-Nintendo-Switch-1093249.jpg?r=1551340305316",
+      caption: "Pika Pika Pika Pika Pika Pika!"
+    },
+    {
+      url: "https://i.kinja-img.com/gawker-media/image/upload/t_original/zf1fo6t86mf5y24hwxzv.jpg",
+      caption: "Pokeball Go!!!"
+    },
+    {
+      url: "https://www.gamespew.com/wp-content/uploads/2019/11/Pokemon-Sword-3-696x391.jpg",
+      caption: "Magmazel I can't believe it you crushed my dream and filled yours with a pikachu. Well I'll just find another pikachu for me to catch and make my dream come true but you can keep the first one. But rememeber I wont be easy on you."
+    },
+    {
+      url: "https://cdn.onebauer.media/one/media/5dd7/cb60/2687/4c71/11e7/85a9/pokemon-sword-shield.jpg?quality=50&width=1800&ratio=16-9&resizeStyle=aspectfill&format=jpg",
+      caption: "Magmazel, its me hop the one thats throwing the pokeball watch me. I'm going to catch a pikachu! Pokeball go!"
+    },
+    {
+      url: "https://freegametips.com/wp-content/uploads/2019/11/Pok%C3%A9mon-Sword-and-Shield-Live-the-Wild-Area-from-a-1024x576.jpg",
+      caption: "*Stirring sounds* *Stirring sounds* Magmazel said oh yay! this soup is going to be super good, my pokemon will like it! Even snorlax! *Stirring sounds* *Stirring sounds*"
     }
-  ]);
-        
+  ]);      
 
   function nextPage() {
     if (page === imgArray.length -1) return;    
@@ -222,7 +333,15 @@ function App() {
     setCaption(imgArray[page - 1].caption);
   }
 
-  return (
+  async function goToLastPage() {
+    let i = imgArray.length - 1;    
+    await setPage(i);
+
+    setImg(imgArray[i].url);
+    setCaption(imgArray[i].caption);
+  }
+
+  return (    
     <AppWrapper>      
         <H1>
         {title}
@@ -244,7 +363,9 @@ function App() {
           {activeCaption}
         </H2>
         
-      
+      <Row>
+        <button value="Go to last page" onClick={() => goToLastPage()} >Go to last page</button>
+      </Row>
     </AppWrapper>
   );
 }
