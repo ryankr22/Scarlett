@@ -313,6 +313,62 @@ function App() {
     {
       url: "https://freegametips.com/wp-content/uploads/2019/11/Pok%C3%A9mon-Sword-and-Shield-Live-the-Wild-Area-from-a-1024x576.jpg",
       caption: "*Stirring sounds* *Stirring sounds* Magmazel said oh yay! this soup is going to be super good, my pokemon will like it! Even snorlax! *Stirring sounds* *Stirring sounds*"
+    },
+    {
+      url: "https://cdn.pastemagazine.com/www/articles/Cooking%20Camping%20Curry%20Guide%20Pokemon.jpg",
+      caption: "*drop drop drop* magmazel said oh I'm just putting the berries into the cauldron. *mix mix mix*"
+    },
+    {
+      url: "https://www.serebii.net/swordshield/visit.jpg",
+      caption: "*mix mix mix mix mix mix* *swish swish swish* *drop drop drop* magmazel said just putting these berries in and mixing and mixing and mixing."
+    },
+    {
+      url: "https://d2skuhm0vrry40.cloudfront.net/2019/articles/2019-11-15-12-24/pokemon-sword-and-shield-pokemon-camp.jpg/EG11/thumbnail/750x422/format/jpg/quality/60",
+      caption: "You guys you can't have the food haha. Scorbunny give back that banana!"
+    },
+    {
+      url: "https://i.redd.it/hilnyv9knky31.jpg",
+      caption: "Scorbunny! Scorbunny stop, scorbunny! scorbunny! Magmazel said what is it Scorbunny, oh there is people over there? I wonder why they're here? Eh, lets just ignore them."
+    },
+    {
+      url: "https://i.ytimg.com/vi/dhfjeIBJfjc/maxresdefault.jpg",
+      caption: "Scorbunny, I wonder why those people right there are there? Lets just go back to eating."
+    },
+    {
+      url: "https://d2skuhm0vrry40.cloudfront.net/2019/articles/2019-11-15-12-24/pokemon-sword-and-shield-pokemon-camp.jpg/EG11/resize/1200x-1/pokemon-sword-and-shield-pokemon-camp.jpg",
+      caption: "Scorbunny, you keep making me laugh hahaha, stop wrestling! Yamper! Scorbunny, stop tackling yamper I can't believe I said that twice! Oh it doesn't matter."
+    },
+    {
+      url: "https://i2.wp.com/www.b4gamez.com/wp-content/uploads/2019/11/1.jpg",
+      caption: "hahah you guys lets keep playing! scorbunny you know you can stop scaring us right? Oh my vileplume, the egg is hatching!!"
+    },
+    {
+      url: "https://cdn.vox-cdn.com/thumbor/D9BhtlV4aBSriIlwjqkJip5HG_A=/1400x1400/filters:format(png)/cdn.vox-cdn.com/uploads/chorus_asset/file/19380398/Screen_Shot_2019_11_15_at_2.45.35_PM.png",
+      caption: "Huh huh huh huh vileplume, the egg is hatching! I wonder what could be inside?"
+    },
+    {
+      url: "https://gamespot1.cbsistatic.com/uploads/scale_landscape/313/3136061/3644581-pokemon%20wooloo.jpg",
+      caption: "Scorbunny! Look at the picture that hop sent me, its a picture of him and wooloo when they were just little kids!"
+    },
+    {
+      url: "https://cdn1.dotesports.com/wp-content/uploads/2019/11/24204831/Screenshot_2019-11-24-11-Pokemon-Sword-and-Pokemon-Shield-Official-Trailer-YouTube1.jpg",
+      caption: "Ding! oh so cute, I wish scorbunny could see this right now. Oh, I'll just send a picture back to hop. Oh hi neighbor I'll show you the picture, here."
+    },
+    {
+      url: "https://pm1.narvii.com/7249/f14a0676e58ed2dfafd12f539111e5ce467de8bbr1-2048-1159v2_uhq.jpg",
+      caption: "Neighbor this is how the picture looks, I'll show you the second picture I'm going to send to hop, ill just send this picture now! Thanks roton for telling me that my messages texted to hop! Oh and here is the other picture I was going to show you."
+    },
+    {
+      url: "https://i.pinimg.com/originals/41/8c/68/418c68dfcf71bee64f4cc3e3286d1bb9.jpg",
+      caption: "Neighbor this is the picture I'm going to send hop."
+    },
+    {
+      url: "https://cdn.vox-cdn.com/thumbor/ljTBhGlKe_5XUzF2XkEesTtlyWU=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/65745963/Switch_PokemonSwordPokemonShield_E3_screen_03.0.jpg",
+      caption: "Neighbor this is the third picture I wanted to show you, and here is the 4th picture I want to show you!"
+    },
+    {
+      url: "https://i2-prod.dailystar.co.uk/incoming/article16372408.ece/ALTERNATES/s615/0_Pokemon-Sword-and-Shield-Shock-Pokedex-trouble-isn-t-only-bad-news-for-Nintendo-Switch-790184",
+      caption: "Neighbor, this is the 4th picture I wanted to show you and now I'll show you the 5th!"
     }
   ]);      
 
